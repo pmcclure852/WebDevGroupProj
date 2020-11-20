@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T15:18:35.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="14yZieRZhsF5_rIdpLh9" version="13.10.0" type="github"><diagram id="9Hw6Vr-7h3pMYh5VBa0q" name="Page-1">1ZnZjpswFIafhsuRwA5LLrNNJp1d6UzUq8oDDlgBmxpn69MXgklC7KqRGrLcROa3webjP8cHYsBeshpylEbPLMCxAcxgZcC+AYDrWflvIaxLwbIsWCohJ4HUdsKY/MZSNKU6JwHOagMFY7EgaV30GaXYF6Umz0Wcs2VWk6Ysrs+aohArwthHsapOSCCiUvWAu9MfMAkjUd2f0y57ElQNllNnEQrYck+CAwP2OGOibCWrHo4LeBWX8rz7v/RuF8YxFcecAO+fh9/9X3erRbqgsfkweRr9vJNXWaB4Lm9YLlasKwKczWmAi4uYBuwuIyLwOEV+0bvMn3muRSKJ8yMrb6qLqmbAXODVniQXOcQswYKv8yFVbwVMWqYlD5c7/E6lRXvo3eqpyycebq+8g5I3JBc9o9HX8B0nrxPwA3jfHiezz47NNIyeWMhugdN2yFk4AYXTC1qQEAnC6MVpAbtOy1ZpQUdDy26KFlRovRWpqJgdBYSGFyd26C/LOjIQnaaQta4/WVnusZDaTVGyr5+S5xxJyTKbouQolLrzYsWC+DMssrz1NRfiChKXc5jmbTXNw3NGIVDDsBMEHGfZxVlZB0nec1VYwDzrnqhG4yBBJL44KugeoPI0vnI1qEBjqNSQfIsYxVeHqg00lVZTqB5Z9uw5r+tZ/244/KBei06nmtphzHyCivMSHBBkAAclBQj6laUbCDKbXT5EbeffIaqFeYoQfY9GrbC77gTpPfrsZ1brpU005X1HCI78smw1pyQWmOcNlhbKSQgquDRQj05yVlu1o+01tCPoCaoIZS3LpvlPvjXM482WSk/6PvBfFO3DksRUKW4/QuxThI1RVKO6ZkSSbJhemfuApuDdOrJWyjVnP01BUgNHp4wn12E7eAQ+qAveBvGpJcoN+K6leYE/t+/UguVmfKfDd27fubfoOwde3nfe7fpOh+9kvssPd5/TN317f0rAwR8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-20T17:16:59.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="9z29R5ZCv8f-qECu0AkC" version="13.10.0" type="github">
+  <diagram id="9Hw6Vr-7h3pMYh5VBa0q" name="Page-1">
+    <mxGraphModel dx="1087" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IbGQemOW2Y28JKWkVA5o-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="640" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="IbGQemOW2Y28JKWkVA5o-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="830" width="640" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IbGQemOW2Y28JKWkVA5o-24" value="Address" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="845" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IbGQemOW2Y28JKWkVA5o-25" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="855" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IbGQemOW2Y28JKWkVA5o-26" value="Phone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="890" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KosM86OykD-GGUn84nff-3" value="Social media&amp;nbsp; buttons" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="845" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-1" value="Attraction filter options" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="140" width="580" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-11" value="Page of results navigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="770" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-13" value="Attraction image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="240" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-14" value="Attraction information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="240" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-15" value="Attraction image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="420" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-16" value="Attraction information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="420" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-17" value="Attraction image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="600" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QhI4gByAdpFaVDs14N9i-18" value="Attraction information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="600" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XUx2HdtIRyx-RT4Lycc--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-80" width="640" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XUx2HdtIRyx-RT4Lycc--2" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-70" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XUx2HdtIRyx-RT4Lycc--3" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-10" width="640" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XUx2HdtIRyx-RT4Lycc--4" value="Buy tickets button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XUx2HdtIRyx-RT4Lycc--5" value="Page heading" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="580" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
