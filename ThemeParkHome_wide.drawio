@@ -1,18 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T15:04:39.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="2YN_oXXvsdgDInpLZ9ie" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T17:17:25.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="muP3CyViaP_0t-ZXdnRf" version="13.10.0" type="github">
   <diagram id="9Hw6Vr-7h3pMYh5VBa0q" name="Page-1">
-    <mxGraphModel dx="781" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3FMGTcq-xvpvnl0HWLI_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="640" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="IbGQemOW2Y28JKWkVA5o-1" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="IbGQemOW2Y28JKWkVA5o-2" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="50" width="360" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-3" value="Large image with text and link areas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="640" height="360" as="geometry" />
         </mxCell>
@@ -21,9 +12,6 @@
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="720" width="640" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IbGQemOW2Y28JKWkVA5o-6" value="Buy tickets button" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="45" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-11" value="Attraction image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="490" width="280" height="160" as="geometry" />
@@ -48,6 +36,18 @@
         </mxCell>
         <mxCell id="KosM86OykD-GGUn84nff-3" value="Social media&amp;nbsp; buttons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="735" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KosM86OykD-GGUn84nff-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-10" width="640" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KosM86OykD-GGUn84nff-6" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KosM86OykD-GGUn84nff-7" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="640" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KosM86OykD-GGUn84nff-8" value="Buy tickets button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
