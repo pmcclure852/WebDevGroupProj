@@ -1,62 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T17:18:34.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="YCvvwLfVlHhJRuPnbaZO" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T18:02:32.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="J08aoKOwcSg8L2t4g_1B" version="13.10.0" type="github">
   <diagram id="9Hw6Vr-7h3pMYh5VBa0q" name="Page-1">
-    <mxGraphModel dx="781" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IbGQemOW2Y28JKWkVA5o-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="180" width="400" height="740" as="geometry" />
+          <mxGeometry x="214" y="160" width="400" height="740" as="geometry" />
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="920" width="400" height="190" as="geometry" />
+          <mxGeometry x="214" y="900" width="400" height="190" as="geometry" />
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-11" value="Attraction image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="232.5" y="250" width="175" height="100" as="geometry" />
+          <mxGeometry x="326.5" y="230" width="175" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-13" value="Attraction information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="360" width="320" height="80" as="geometry" />
+          <mxGeometry x="254" y="340" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-24" value="Address" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="940" width="150" height="70" as="geometry" />
+          <mxGeometry x="264" y="920" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-25" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="980" width="120" height="20" as="geometry" />
+          <mxGeometry x="444" y="960" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IbGQemOW2Y28JKWkVA5o-26" value="Phone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="950" width="120" height="20" as="geometry" />
+          <mxGeometry x="444" y="930" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Dg9ZwA2nGZHByh9lv0ck-1" value="Social media buttons" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="1030" width="300" height="60" as="geometry" />
+          <mxGeometry x="264" y="1010" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="38qWKcu99iO3Lw-Blun8-1" value="Attraction filter options" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="190" width="380" height="50" as="geometry" />
+          <mxGeometry x="224" y="170" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="38qWKcu99iO3Lw-Blun8-2" value="Attraction image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="232.5" y="460" width="175" height="100" as="geometry" />
+          <mxGeometry x="326.5" y="440" width="175" height="100" as="geometry" />
         </mxCell>
         <mxCell id="38qWKcu99iO3Lw-Blun8-3" value="Attraction information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="570" width="320" height="80" as="geometry" />
+          <mxGeometry x="254" y="550" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="38qWKcu99iO3Lw-Blun8-4" value="Attraction image" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="232.5" y="670" width="175" height="100" as="geometry" />
+          <mxGeometry x="326.5" y="650" width="175" height="100" as="geometry" />
         </mxCell>
         <mxCell id="38qWKcu99iO3Lw-Blun8-5" value="Attraction information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="780" width="320" height="80" as="geometry" />
+          <mxGeometry x="254" y="760" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="38qWKcu99iO3Lw-Blun8-6" value="Page of results navigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="870" width="210" height="30" as="geometry" />
+          <mxGeometry x="394" y="850" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f8TNRZcMhguGWcGovWrd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="60" width="400" height="70" as="geometry" />
+        <mxCell id="f8TNRZcMhguGWcGovWrd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="214" y="40" width="400" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="f8TNRZcMhguGWcGovWrd-2" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="70" width="240" height="50" as="geometry" />
+        <mxCell id="f8TNRZcMhguGWcGovWrd-2" value="Logo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="224" y="50" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f8TNRZcMhguGWcGovWrd-3" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="130" width="400" height="50" as="geometry" />
+        <mxCell id="f8TNRZcMhguGWcGovWrd-3" value="Navigation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="214" y="110" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="f8TNRZcMhguGWcGovWrd-4" value="Buy tickets button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="130" height="50" as="geometry" />
+        <mxCell id="f8TNRZcMhguGWcGovWrd-4" value="Buy tickets button" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="474" y="50" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
